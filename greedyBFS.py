@@ -35,5 +35,3 @@ def select_best_neighbour(neighbours, visited_nodes):
 
     return possible_next_node
 
-
-greedy_bfs()

@@ -85,8 +85,29 @@ path_cost_dictionary = \
         },
         "Eforie": {
             "Hirsova": 86
+        },
+        "Self": {
+            "Arad": 0,
+            "Bucharest": 0,
+            "Craiova":  0,
+            "Dobreta":  0,
+            "Eforie":  0,
+            "Fagaras":  0,
+            "Giurgiu": 0,
+            "Hirsova":  0,
+            "Lasi":  0,
+            "Lugoj":  0,
+            "Mehadia":  0,
+            "Neamt":  0,
+            "Oradea":  0,
+            "Pitesti": 0,
+            "Rimnicu Vilcea":  0,
+            "Sibiu":  0,
+            "Timisoara":  0,
+            "Urziceni": 0,
+            "Vaslui":  0,
+            "Zerind": 0,
         }
-
     }
 
 neighbours_dictionary = {
